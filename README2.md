@@ -44,6 +44,9 @@ We can get data through get, post data according to<body>, and verify by returni
 
 **[Swagger Petstore](https://petstore.swagger.io/#/)**
 
+  
+  ![enter image description here](https://cdn2.hubspot.net/hubfs/208250/Blog_Images/swaggereditor1.png)
+ 
 
 
 The following methods are listed:
